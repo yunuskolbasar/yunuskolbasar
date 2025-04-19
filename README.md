@@ -1,5 +1,5 @@
 ## About Me:
-I'm Yunus Emre, a Full Stack Developer, passionate about building innovative web applications and constantly working on independent projects to refine my skills.
+ 
 
 
 ## 🌐 Socials:
