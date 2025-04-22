@@ -1,7 +1,6 @@
 
  
-I'm Yunus Emre, a Full Stack Developer, passionate about building innovative web applications and constantly working on independent projects to refine my skills.
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yunusemrekolbasar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yunuskolbasar@gmail.com) 
 
