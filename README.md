@@ -13,7 +13,6 @@
   <a href="https://www.yunusemrekolbasar.com/"><img src="https://img.shields.io/badge/Portfolio-24C6DC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/yunusemrekolbasar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yunuskolbasar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yunuskolbasar&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
